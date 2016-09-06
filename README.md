@@ -1,6 +1,6 @@
 # haskell-general
 
-Collection of concepts/ideas/terminology that I learn about haskell everyday!
+Collection of concepts/ideas/terminology that I learn about haskell & functional programming everyday!
 
 ### Algebraic Data Types
 algebra = set of objects + operations on those objects that create new objects. In programming, the objects are data types (Int, Bool, String, etc) and the operations used to combine them are:
